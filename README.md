@@ -1,3 +1,4 @@
+
 # VercelViteENV
 
 
@@ -45,3 +46,9 @@ function App() {
 |로컬 | 버셀| 
 |----|----|
 |<img width="132" alt="image" src="https://github.com/user-attachments/assets/de3927bc-af12-4428-8a53-86e7e026a1d5" />|<img width="248" alt="image" src="https://github.com/user-attachments/assets/7cd088f2-98d6-4158-acb6-e7352e6120a4" />|
+
+
+# 결론 ... 
+
+버셀과 vite를 쓸때는 앞에 Prefix는 물론이고 config에  define도 추가되야된다. 
+
