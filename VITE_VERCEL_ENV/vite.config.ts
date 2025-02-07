@@ -8,5 +8,8 @@ export default defineConfig({
     "process.env": process.env,
     NOT_VITE_VERCEL_KEY: process.env.NOT_VITE_VERCEL_KEY,
     VITE_VERCEL_KEY: process.env.VITE_VERCEL_KEY,
+    VERCEL_URL: process.env.VERCEL_URL,
+    VITE_VERCEL_URL: process.env.VITE_VERCEL_URL,
+    VITE_URL: process.env.VITE_URL,
   },
 });
